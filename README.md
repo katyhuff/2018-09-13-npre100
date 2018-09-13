@@ -3,7 +3,7 @@ Invited guest lecture on data in nuclear engineering in the ARFC group.
 
 ## Kathryn Huff
 
-A presentation at NPRE100 in Urbana, IL on October 27, 2016.
+A presentation at NPRE100 in Urbana, IL on September 13, 2018.
 The content of this presentation is licensed to Kathryn Huff under CC-BY-4.0.
 
 Note that this presentation relies on the reveal.js framework by Hakim El
